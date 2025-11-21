@@ -17,7 +17,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: Meteor2333
-          template: repository
           token: ${{ secrets.METRICS_TOKEN }}
           config_timezone: Asia/Shanghai
           
