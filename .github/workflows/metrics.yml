@@ -16,5 +16,10 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          user: Meteor2333
           template: repository
           token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Shanghai
+          
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
