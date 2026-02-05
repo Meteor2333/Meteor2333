@@ -19,6 +19,7 @@ jobs:
           user: Meteor2333
           token: ${{ secrets.TOKEN }}
           filename: images/metrics.*
+          plugins_errors_fatal: yes
           config_display: large
           config_timezone: Asia/Shanghai
           repositories_skipped: |
@@ -42,6 +43,7 @@ jobs:
           plugin_followup_indepth: yes
 
           plugin_achievements: yes
+          plugin_achievements_display: compact
 
           plugin_activity: yes
           plugin_activity_timestamps: yes
