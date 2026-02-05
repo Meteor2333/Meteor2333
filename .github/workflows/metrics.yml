@@ -42,8 +42,8 @@ jobs:
           plugin_followup_sections: repositories, users
           plugin_followup_indepth: yes
 
-          plugin_achievements: yes
-          plugin_achievements_display: compact
+          # plugin_achievements: yes
+          # plugin_achievements_display: compact
 
           plugin_activity: yes
           plugin_activity_timestamps: yes
