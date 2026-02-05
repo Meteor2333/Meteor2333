@@ -1,6 +1,6 @@
 # Hi, I'm Meteor23333 👋
 
-### A `full-stack developer`, a `Minecraft technical player`, with a strong interest in `hardware development` and currently learning `reverse engineering`.
+### A **full-stack** developer, a ***Minecraft*** technical player, with a strong interest in hardware development and currently learning reverse engineering.
 
 <!-- ### About Me -->
 <!-- - Focused on backend & system-oriented development -->
