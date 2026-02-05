@@ -18,12 +18,35 @@ jobs:
         with:
           user: Meteor2333
           token: ${{ secrets.TOKEN }}
-          filename: metrics.*
+          filename: images/metrics.*
           config_display: large
           config_timezone: Asia/Shanghai
+          repositories_skipped: |
+            @use.patterns
+            Meteor2333/Meteor2333
 
           base: activity, community, repositories, metadata
           base_indepth: true
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
+
+          plugin_stars: yes
+          plugin_stars_limit: 3
+
+          plugin_habits: yes
+          plugin_habits_from: 300
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories, users
+          plugin_followup_indepth: yes
+
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+
+          plugin_activity: yes
+          plugin_activity_timestamps: yes
+
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          
