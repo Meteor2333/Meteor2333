@@ -7,7 +7,7 @@ on:
   # (optional) Run workflow when pushing on main
   push: {branches: "main"}
 jobs:
-  github-metrics:
+  metrics:
     runs-on: ubuntu-latest
     environment: 
       name: production
