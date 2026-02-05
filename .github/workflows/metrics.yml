@@ -18,6 +18,7 @@ jobs:
         with:
           user: Meteor2333
           token: ${{ secrets.TOKEN }}
+          filename: metrics.*
           config_display: large
           config_timezone: Asia/Shanghai
 
