@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           user: Meteor2333
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.TOKEN }}
           config_timezone: Asia/Shanghai
           
           plugin_isocalendar: yes
