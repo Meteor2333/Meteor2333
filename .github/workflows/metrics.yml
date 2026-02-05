@@ -19,12 +19,11 @@ jobs:
           user: Meteor2333
           token: ${{ secrets.TOKEN }}
           filename: images/metrics.*
-          plugins_errors_fatal: yes
           config_display: large
           config_timezone: Asia/Shanghai
-          # repositories_skipped: |
-            # @use.patterns
-            # Meteor2333/Meteor2333
+          repositories_skipped: |
+            @use.patterns
+            Meteor2333/Meteor2333
 
           base: activity, community, repositories, metadata
           base_indepth: true
@@ -35,8 +34,8 @@ jobs:
           plugin_stars: yes
           plugin_stars_limit: 3
 
-          plugin_habits: yes
-          plugin_habits_from: 300
+          # plugin_habits: yes
+          # plugin_habits_from: 300
 
           plugin_followup: yes
           plugin_followup_sections: repositories, users
@@ -45,9 +44,26 @@ jobs:
           # plugin_achievements: yes
           # plugin_achievements_display: compact
 
-          plugin_activity: yes
-          plugin_activity_timestamps: yes
+          # plugin_activity: yes
+          # plugin_activity_timestamps: yes
 
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          
+
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_habits: yes
+          plugin_habits_charts_type: classic
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_habits_languages_limit: 8
+          plugin_habits_languages_threshold: 0%
