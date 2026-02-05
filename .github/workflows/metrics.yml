@@ -20,7 +20,8 @@ jobs:
           token: ${{ secrets.TOKEN }}
           config_display: large
           config_timezone: Asia/Shanghai
-          
+
+          base: activity, community, repositories, metadata
           base_indepth: true
           
           plugin_isocalendar: yes
