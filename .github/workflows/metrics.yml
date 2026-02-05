@@ -18,7 +18,10 @@ jobs:
         with:
           user: Meteor2333
           token: ${{ secrets.TOKEN }}
+          config_display: large
           config_timezone: Asia/Shanghai
+          
+          base_indepth: true
           
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
