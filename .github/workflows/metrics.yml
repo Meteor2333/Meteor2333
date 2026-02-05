@@ -32,7 +32,7 @@ jobs:
           plugin_isocalendar_duration: half-year
 
           plugin_stars: yes
-          plugin_stars_limit: 3
+          plugin_stars_limit: 4
 
           # plugin_habits: yes
           # plugin_habits_from: 300
