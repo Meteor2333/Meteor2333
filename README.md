@@ -1,6 +1,6 @@
 # Hi, I'm Meteor23333 👋
 
-#### A **full-stack developer**, a **Minecraft technical player**, with a strong interest in **hardware development** and currently learning **reverse engineering**.
+### A **full-stack developer**, a **Minecraft technical player**, with a strong interest in **hardware development** and currently learning **reverse engineering**.
 
 <!-- ### About Me -->
 <!-- - Focused on backend & system-oriented development -->
@@ -11,7 +11,7 @@
 
 <img src="images/metrics.svg" alt="Metrics">
 
-### Languages
+## Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -19,7 +19,7 @@
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vue](https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)](https://vuejs.org/)
 
-### Tools
+## Tools
 [![IntelliJ IDEA](https://img.shields.io/badge/IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)](https://visualstudio.microsoft.com/)
 [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
@@ -29,4 +29,4 @@
 
 ---
 
-> #### *Build things. Break things. Understand things.*
+> ### *Build things. Break things. Understand things.*
