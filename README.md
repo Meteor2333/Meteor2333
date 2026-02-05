@@ -1,6 +1,6 @@
-<!-- ## Hi there 👋
+## Hi there 👋
 
-**Meteor2333/Meteor2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **Meteor2333/Meteor2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<picture>
-  <img src="/github-metrics.svg" alt="Metrics">
-</picture>
+<img src="images/metrics.svg" alt="Metrics">
