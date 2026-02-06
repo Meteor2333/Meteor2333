@@ -72,7 +72,7 @@ jobs:
           //   metrics
           // );
 
-          const icon_regex = /<!--\s*Template:Icon\((?<display>[^;]+);{3}(?<click>[^)]+)\)\s*-->/g;
+          const icon_regex = /<!--\s*Template:Icon\((?<display>.+?);{3}(?<click>[^)]+)\)\s*-->/g;
           let icon_result = '';
           let icon_lastIndex = 0;
           for (const match of readme.matchAll(icon_regex)) {
