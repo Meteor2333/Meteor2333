@@ -58,13 +58,14 @@ jobs:
       - name: Build README.md
         run: |
           node <<'EOF'
-          import fs from 'fs';
           import path from 'path';
           import { pipeline } from 'stream/promises';
+          import { createWriteStream } from 'fs';
+          import { mkdir, readFile, writeFile } from 'fs/promises';
 
-          let readme = await fs.readFile('README_TEMPLATE.md', 'utf8');
+          let readme = await readFile('README_TEMPLATE.md', 'utf8');
 
-          // const metrics_result = await fs.readFile('/metrics_renders/metrics.svg', 'utf8');
+          // const metrics_result = await readFile('/metrics_renders/metrics.svg', 'utf8');
           // const metrics = `<picture>${metrics_result}</picture>`;
           // readme = readme.replace(
           //   /<!--\s*Template:Metrics\s*-->/,
@@ -81,10 +82,10 @@ jobs:
             const icon_res = await fetch(icon_display);
             if (!icon_res.ok) throw new Error(`Download failed: ${icon_res.status} ${icon_res.statusText}!`);
 
-            await fs.mkdir('assets', { recursive: true });
+            await mkdir('assets', { recursive: true });
             const icon_filename = path.basename(new URL(icon_display).pathname);
             if (!icon_filename) throw new Error(`Get filename failed: ${icon_display}!`);
-            await pipeline(res.body, fs.createWriteStream(`assets/${icon_filename}`));
+            await pipeline(res.body, createWriteStream(`assets/${icon_filename}`));
             
             icon_result += readme.slice(icon_lastIndex, icon_index);
             icon_result += `<a href="${icon_click}"><img src="assets/${icon_filename}"/></a>`;
