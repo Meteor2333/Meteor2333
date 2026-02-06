@@ -2,10 +2,9 @@
 
 ### A **full-stack** developer and ***Minecraft*** technical player, a student interested in hardware development and reverse engineering.
 
-<!-- <picture> -->
-  <!-- <img src="metrics.svg" alt="Metrics" width="100%"> -->
-<!-- </picture> -->
-<!-- Template:Metrics --> 
+<picture>
+  <img src="metrics.svg" alt="Metrics" width="100%">
+</picture>
 
 ---
 
@@ -25,5 +24,4 @@
 [![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge)](https://www.autodesk.com/products/fusion-360/overview)
 [![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge)](https://www.altium.com/altium-designer)
 
-<!-- > ### *Build things. Break things. Understand things.* -->
 <!-- Template:Quote -->
