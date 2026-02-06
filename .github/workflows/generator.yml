@@ -78,7 +78,7 @@ jobs:
           const quote = `### *${quote_response.h}*`;
           readme = readme.replace(
             /<!--\s*Template:Quote\s*-->/,
-            quete
+            quote
           );
           
           fs.writeFileSync('README.md', readme);
