@@ -67,12 +67,12 @@ jobs:
 
           let readme = fs.readFileSync("README_TEMPLATE.md", "utf8");
 
-          const metrics_result = fs.readFileSync("/metrics_renders/metrics.svg", "utf8");
-          const metrics = `<picture>${metrics_result}</picture>`;
-          readme = readme.replace(
-            /<!--\s*Template:Metrics\s*-->/,
-            metrics
-          );
+          // const metrics_result = fs.readFileSync("/metrics_renders/metrics.svg", "utf8");
+          // const metrics = `<picture>${metrics_result}</picture>`;
+          // readme = readme.replace(
+          //   /<!--\s*Template:Metrics\s*-->/,
+          //   metrics
+          // );
           
           const quote_response = JSON.parse(fs.readFileSync("quote.json", "utf8"))[0];
           const quote = `### *${quote_response.h}*`;
@@ -90,7 +90,7 @@ jobs:
           ls -la
           
           set +e
-          git add README.md
+          git add README.md metrics.svg
           git status
           
           if git diff --cached --quiet; then
