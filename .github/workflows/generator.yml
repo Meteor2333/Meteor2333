@@ -82,14 +82,14 @@ jobs:
           );
           
           fs.writeFileSync('README.md', readme);
-          console.log(readme);
           EOF
 
       - name: Push changes
         run: |
+          pwd
           set +e
-          git add README.md
-          if git diff --quiet README.md; then
+          git add --all
+          if git diff --quiet; then
             echo "No changes"
           else
             git config user.name "github-actions[bot]"
