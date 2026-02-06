@@ -59,12 +59,6 @@ jobs:
 
       - name: Fetch quote
         run: curl -s https://zenquotes.io/api/today > quote.json
-        
-      - name: Test1
-        run: |
-          pwd
-          cd /metrics_renders/
-          ls
 
       - name: Build README.md
         run: |
@@ -72,11 +66,9 @@ jobs:
           import fs from "fs";
 
           let readme = fs.readFileSync("README_TEMPLATE.md", "utf8");
-          console.log(readme);
 
           const metrics_result = fs.readFileSync("/metrics_renders/metrics.svg", "utf8");
           const metrics = `<picture>${metrics_result}</picture>`;
-          console.log(metrics);
           readme = readme.replace(
             /<!--\s*Template:Metrics\s*-->/,
             metrics
@@ -84,7 +76,6 @@ jobs:
           
           const quote_response = JSON.parse(fs.readFileSync("quote.json", "utf8"))[0];
           const quote = `### *${quote_response.h}*`;
-          console.log(quote);
           readme = readme.replace(
             /<!--\s*Template:Quote\s*-->/,
             quote
@@ -93,11 +84,6 @@ jobs:
           fs.writeFileSync('README.md', readme);
           console.log(readme);
           EOF
-
-      - name: Test2
-        run: |
-          pwd
-          ls -R
 
       - name: Push changes
         run: |
