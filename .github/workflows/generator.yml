@@ -59,6 +59,11 @@ jobs:
 
       - name: Fetch quote
         run: curl -s https://zenquotes.io/api/today > quote.json
+        
+      - name: Test1
+        run: |
+          pwd
+          ls -R
 
       - name: Build README.md
         run: |
@@ -83,6 +88,11 @@ jobs:
           
           fs.writeFileSync('README.md', readme);
           EOF
+
+      - name: Test2
+        run: |
+          pwd
+          ls -R
 
       - name: Push changes
         run: |
