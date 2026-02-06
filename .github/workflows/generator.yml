@@ -31,7 +31,7 @@ jobs:
             @use.patterns
             Meteor2333/Meteor2333
 
-          base: activity, community, repositories, metadata
+          base: activity, community, repositories
           base_indepth: true
           
           plugin_isocalendar: yes
