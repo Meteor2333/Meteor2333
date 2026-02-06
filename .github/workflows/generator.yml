@@ -87,6 +87,9 @@ jobs:
       - name: Push changes
         run: |
           pwd
+          ls -la
+          git status
+          
           set +e
           git add --all
           if git diff --quiet; then
