@@ -87,12 +87,12 @@ jobs:
       - name: Push changes
         run: |
           set +e
+          git add README.md
           if git diff --quiet README.md; then
             echo "No changes"
           else
             git config user.name "github-actions[bot]"
             git config user.email "github-actions@github.com"
-            git add README.md
-            git commit -m "Auto-generate README.md [skip ci]"
+            git commit -m "Auto-generate README.md [Skip CI]"
             git push
           fi
