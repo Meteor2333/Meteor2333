@@ -9,7 +9,7 @@
 <!-- - Interested in reverse engineering and low-level technologies -->
 <!-- - Enjoys understanding how things work under the hood -->
 
-<img src="images/metrics.svg" alt="Metrics">
+<img src="metrics.svg" alt="Metrics">
 
 ## Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
