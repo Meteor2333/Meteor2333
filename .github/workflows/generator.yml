@@ -55,31 +55,56 @@ jobs:
           plugin_wakatime_url: https://wakapi.dev
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
-      - name: Fetch quote
-        run: curl -s https://zenquotes.io/api/today > quote.json
-
       - name: Build README.md
         run: |
           node <<'EOF'
-          import fs from "fs";
+          import fs from 'fs';
+          import path from 'path';
+          import { pipeline } from 'stream/promises';
 
-          let readme = fs.readFileSync("README_TEMPLATE.md", "utf8");
+          let readme = await fs.readFile('README_TEMPLATE.md', 'utf8');
 
-          // const metrics_result = fs.readFileSync("/metrics_renders/metrics.svg", "utf8");
+          // const metrics_result = await fs.readFile('/metrics_renders/metrics.svg', 'utf8');
           // const metrics = `<picture>${metrics_result}</picture>`;
           // readme = readme.replace(
           //   /<!--\s*Template:Metrics\s*-->/,
           //   metrics
           // );
+
+          const icon_regex = /<!--\s*Template:Icon\((?<icon_display>[^;]+);{3}(?<icon_click>[^)]+)\)\s*-->/g;
+          let icon_result = '';
+          let icon_lastIndex = 0;
+          for (const icon_match of readme.matchAll(icon_regex)) {
+            const { icon_index, icon_groups } = icon_match;
+            const { icon_display, icon_click } = icon_groups;
+
+            const icon_res = await fetch(icon_display);
+            if (!icon_res.ok) throw new Error(`Download failed: ${icon_res.status} ${icon_res.statusText}!`);
+
+            await fs.mkdir('assets', { recursive: true });
+            const icon_filename = path.basename(new URL(icon_display).pathname);
+            if (!icon_filename) throw new Error(`Get filename failed: ${icon_display}!`);
+            await pipeline(res.body, fs.createWriteStream(`assets/${icon_filename}`));
+            
+            icon_result += readme.slice(icon_lastIndex, icon_index);
+            icon_result += `<a href="${icon_click}"><img src="assets/${icon_filename}"/></a>`;
+            icon_lastIndex = icon_index + icon_match[0].length;
+          }
+          result += readme.slice(lastIndex);
+          readme = result;
           
-          const quote_response = JSON.parse(fs.readFileSync("quote.json", "utf8"))[0];
-          const quote = `### *${quote_response.h}*`;
+          const quote_response = await fetch('https://zenquotes.io/api/today');
+          if (!quote_response.ok) {
+            throw new Error(`HTTP Error ${quote_response.status}`);
+          }
+          const quote_json = await res.json()
+          const quote = `### *${json.h}*`;
           readme = readme.replace(
             /<!--\s*Template:Quote\s*-->/,
             quote
           );
           
-          fs.writeFileSync('README.md', readme);
+          await fs.writeFile('README.md', readme);
           EOF
 
       - name: Push changes
