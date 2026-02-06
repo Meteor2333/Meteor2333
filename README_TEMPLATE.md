@@ -1,17 +1,11 @@
 # Hi, I'm Meteor23333 👋
 
-### A **full-stack** developer, a ***Minecraft*** technical player, with a strong interest in hardware development and currently learning reverse engineering.
+### A **full-stack** developer and ***Minecraft*** technical player, a student interested in hardware development and reverse engineering.
 
-<!-- ### About Me -->
-<!-- - Focused on backend & system-oriented development -->
-<!-- - Experienced with Minecraft technical mechanics and development -->
-<!-- - Hands-on experience with hardware / embedded projects -->
-<!-- - Interested in reverse engineering and low-level technologies -->
-<!-- - Enjoys understanding how things work under the hood -->
-
-<picture>
-  <img src="metrics.svg" alt="Metrics" width="100%">
-</picture>
+<!-- <picture> -->
+  <!-- <img src="metrics.svg" alt="Metrics" width="100%"> -->
+<!-- </picture> -->
+<!-- Template:Metrics --> 
 
 ---
 
@@ -31,4 +25,5 @@
 [![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge)](https://www.autodesk.com/products/fusion-360/overview)
 [![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge)](https://www.altium.com/altium-designer)
 
-> ### *Build things. Break things. Understand things.*
+<!-- > ### *Build things. Break things. Understand things.* -->
+<!-- Template:Quote -->
