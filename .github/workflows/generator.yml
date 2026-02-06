@@ -72,27 +72,33 @@ jobs:
           //   metrics
           // );
 
-          const icon_regex = /<!--\s*Template:Icon\((?<icon_display>[^;]+);{3}(?<icon_click>[^)]+)\)\s*-->/g;
+          const icon_regex = /<!--\s*Template:Icon\((?<display>[^;]+);{3}(?<click>[^)]+)\)\s*-->/g;
           let icon_result = '';
           let icon_lastIndex = 0;
-          for (const icon_match of readme.matchAll(icon_regex)) {
-            const { icon_index, icon_groups } = icon_match;
-            const { icon_display, icon_click } = icon_groups;
+          for (const match of readme.matchAll(icon_regex)) {
+            const { index, groups } = match;
+            const { display, click } = groups || {};
+            if (!display || !click) continue;
 
-            const icon_res = await fetch(icon_display);
-            if (!icon_res.ok) throw new Error(`Download failed: ${icon_res.status} ${icon_res.statusText}!`);
+            const response = await fetch(display);
+            if (!response.ok) {
+              console.warn(`Download failed: ${response.status} ${response.statusText}!`);
+              continue;
+            }
 
             await mkdir('assets', { recursive: true });
-            const icon_filename = path.basename(new URL(icon_display).pathname);
-            if (!icon_filename) throw new Error(`Get filename failed: ${icon_display}!`);
-            await pipeline(res.body, createWriteStream(`assets/${icon_filename}`));
-            
-            icon_result += readme.slice(icon_lastIndex, icon_index);
-            icon_result += `<a href="${icon_click}"><img src="assets/${icon_filename}"/></a>`;
-            icon_lastIndex = icon_index + icon_match[0].length;
+            const filename = path.basename(new URL(display).pathname);
+            if (!filename) {
+              console.warn(`Get filename failed: ${display}!`);
+              continue;
+            }
+            await pipeline(response.body, createWriteStream(`assets/${filename}`));
+            icon_result += readme.slice(icon_lastIndex, index);
+            icon_result += `<a href="${click}"><img src="assets/${filename}"/></a>`;
+            icon_lastIndex = index + match[0].length;
           }
-          result += readme.slice(lastIndex);
-          readme = result;
+          icon_result += readme.slice(icon_lastIndex);
+          readme = icon_result;
           
           const quote_response = await fetch('https://zenquotes.io/api/today');
           if (!quote_response.ok) {
