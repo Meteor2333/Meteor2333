@@ -86,13 +86,10 @@ jobs:
 
       - name: Push changes
         run: |
-          pwd
-          ls -la
-          
           set +e
+          sudo mv /metrics_renders/* ./
           git add README.md metrics.svg
           git status
-          
           if git diff --cached --quiet; then
             echo "No changes"
           else
