@@ -111,7 +111,7 @@ jobs:
             quote
           );
           
-          await fs.writeFile('README.md', readme);
+          await writeFile('README.md', readme);
           EOF
 
       - name: Push changes
