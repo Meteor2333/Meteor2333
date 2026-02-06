@@ -87,8 +87,10 @@ jobs:
             }
 
             await mkdir('assets', { recursive: true });
-            const filename = path.basename(new URL(display).pathname);
-            if (!filename) {
+            let filename = path.basename(new URL(display).pathname);
+            if (filename) {
+              filename += '.svg';
+            } else {
               console.warn(`Get filename failed: ${display}!`);
               continue;
             }
