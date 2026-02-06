@@ -1,4 +1,4 @@
-name: Generation
+name: Generator
 on:
   # Schedule daily updates
   schedule: [{cron: "0 * * * *"}]
@@ -18,7 +18,7 @@ jobs:
         with:
           user: Meteor2333
           token: ${{ secrets.TOKEN }}
-          filename: images/metrics.*
+          filename: metrics.*
           config_display: large
           config_timezone: Asia/Shanghai
           repositories_skipped: |
