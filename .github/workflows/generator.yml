@@ -102,14 +102,15 @@ jobs:
           
           const quote_response = await fetch('https://zenquotes.io/api/today');
           if (!quote_response.ok) {
-            throw new Error(`HTTP Error ${quote_response.status}`);
+            console.warn(`HTTP Error ${quote_response.status}`);
+          } else {
+            const json = await quote_response.json()
+            const quote = `### *${json.h}*`;
+            readme = readme.replace(
+              /<!--\s*Template:Quote\s*-->/,
+              quote
+            );
           }
-          const quote_json = await quote_response.json()
-          const quote = `### *${quote_json.h}*`;
-          readme = readme.replace(
-            /<!--\s*Template:Quote\s*-->/,
-            quote
-          );
           
           await writeFile('README.md', readme);
           EOF
@@ -118,7 +119,7 @@ jobs:
         run: |
           set +e
           sudo mv /metrics_renders/* ./
-          git add README.md metrics.svg
+          git add --all
           git status
           if git diff --cached --quiet; then
             echo "No changes"
