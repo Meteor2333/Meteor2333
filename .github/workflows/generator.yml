@@ -106,7 +106,7 @@ jobs:
           if (!quote_response.ok) {
             console.warn(`HTTP Error ${quote_response.status}`);
           } else {
-            const json = await quote_response.json()
+            const json = (await quote_response.json())[0];
             const quote = `### *${json.h}*`;
             readme = readme.replace(
               /<!--\s*Template:Quote\s*-->/,
