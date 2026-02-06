@@ -18,7 +18,7 @@ jobs:
       - name: Setup Node.js environment
         uses: actions/setup-node@v6
     
-      - name: Generate Metrics
+      - name: Generate metrics
         uses: lowlighter/metrics@latest
         with:
           user: Meteor2333
@@ -84,7 +84,7 @@ jobs:
           fs.writeFileSync('README.md', readme);
           EOF
 
-      - name: Push README.md
+      - name: Push changes
         run: |
           set +e
           if git diff --quiet README.md; then
