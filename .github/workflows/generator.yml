@@ -68,7 +68,7 @@ jobs:
           let readme = fs.readFileSync("README_TEMPLATE.md", "utf8");
 
           const metrics_result = fs.readFileSync("metrics_renders/metrics.svg", "utf8");
-          const metrics = `<picture>${metrics_result}`</picture>;
+          const metrics = `<picture>${metrics_result}</picture>`;
           readme = readme.replace(
             /<!--\s*Template:Metrics\s*-->/,
             metrics
