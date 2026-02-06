@@ -27,6 +27,7 @@ jobs:
           output_action: none
           config_display: large
           config_timezone: Asia/Shanghai
+          config_order: followup, isocalendar, habits, activity, wakatime, stars
           repositories_skipped: |
             @use.patterns
             Meteor2333/Meteor2333
@@ -44,11 +45,8 @@ jobs:
           # plugin_habits_from: 300
 
           plugin_followup: yes
-          plugin_followup_sections: repositories, users
+          plugin_followup_sections: repositories, user
           plugin_followup_indepth: yes
-
-          # plugin_achievements: yes
-          # plugin_achievements_display: compact
 
           # plugin_activity: yes
           # plugin_activity_timestamps: yes
