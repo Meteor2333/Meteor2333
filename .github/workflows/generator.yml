@@ -7,18 +7,24 @@ on:
   # (optional) Run workflow when pushing on main
   push: {branches: "main"}
 jobs:
-  metrics:
+  generate:
     runs-on: ubuntu-latest
-    environment: 
-      name: production
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@master
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v6
+    
+      - name: Generate Metrics
+        uses: lowlighter/metrics@latest
         with:
           user: Meteor2333
           token: ${{ secrets.TOKEN }}
           filename: metrics.*
+          output_action: none
           config_display: large
           config_timezone: Asia/Shanghai
           repositories_skipped: |
@@ -50,3 +56,43 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_url: https://wakapi.dev
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+
+      - name: Fetch quote
+        run: curl -s https://zenquotes.io/api/today > quote.json
+
+      - name: Build README.md
+        run: |
+          node <<'EOF'
+          import fs from "fs";
+
+          let readme = fs.readFileSync("README_TEMPLATE.md", "utf8");
+
+          const metrics_result = fs.readFileSync("metrics_renders/metrics.svg", "utf8");
+          const metrics = `<picture>${metrics_result}`</picture>;
+          readme = readme.replace(
+            /<!--\s*Template:Metrics\s*-->/,
+            metrics
+          );
+          
+          const quote_response = JSON.parse(fs.readFileSync("quote.json", "utf8"))[0];
+          const quote = `### *${quote_response.h}*`;
+          readme = readme.replace(
+            /<!--\s*Template:Quote\s*-->/,
+            quete
+          );
+          
+          fs.writeFileSync('README.md', readme);
+          EOF
+
+      - name: Push README.md
+        run: |
+          set +e
+          if git diff --quiet README.md; then
+            echo "No changes"
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions@github.com"
+            git add README.md
+            git commit -m "Auto-generate README.md [skip ci]"
+            git push
+          fi
