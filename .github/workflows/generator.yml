@@ -88,10 +88,11 @@ jobs:
         run: |
           pwd
           ls -la
-          git status
           
           set +e
-          git add --all
+          git add README.md
+          git status
+          
           if git diff --quiet; then
             echo "No changes"
           else
