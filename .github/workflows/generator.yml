@@ -63,8 +63,8 @@ jobs:
       - name: Test1
         run: |
           pwd
-          cd /
-          ls -R
+          cd /metrics_renders/
+          ls
 
       - name: Build README.md
         run: |
@@ -97,7 +97,6 @@ jobs:
       - name: Test2
         run: |
           pwd
-          cd /
           ls -R
 
       - name: Push changes
