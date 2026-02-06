@@ -13,6 +13,8 @@
   <img src="metrics.svg" alt="Metrics" width="100%">
 </picture>
 
+---
+
 ## Languages
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/)
 [![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
@@ -28,7 +30,5 @@
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Fusion 360](https://img.shields.io/badge/Fusion_360-0696D7?style=for-the-badge)](https://www.autodesk.com/products/fusion-360/overview)
 [![Altium Designer](https://img.shields.io/badge/Altium_Designer-A5915F?style=for-the-badge)](https://www.altium.com/altium-designer)
-
----
 
 > ### *Build things. Break things. Understand things.*
