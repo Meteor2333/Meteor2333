@@ -127,7 +127,7 @@ jobs:
             echo "No changes"
           else
             git config user.name "github-actions[bot]"
-            git config user.email "github-actions@github.com"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
             git commit -m "Auto-generate README.md [Skip CI]"
             git push
           fi
