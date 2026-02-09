@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Trust is the glue that holds people together and is the lubricant that keeps an organization moving forward.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>*
+### *<blockquote>&ldquo;You are not one person, but three: The one you think you are; The one others think you are; The one you really are.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>*
