@@ -1,4 +1,4 @@
-# Hi, I'm Meteor23333 👋
+# Hi there 👋
 
 ### A **full-stack** developer and ***Minecraft*** technical player, a student interested in hardware development and reverse engineering!
 
