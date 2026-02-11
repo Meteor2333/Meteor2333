@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;All great truths begin as blasphemies.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>*
+### *<blockquote>&ldquo;Man's character is his fate.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>*
