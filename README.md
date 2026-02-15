@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>*
+### *<blockquote>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>*
