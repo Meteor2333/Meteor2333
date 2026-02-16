@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;If a thing is worth doing, it is worth doing badly.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>*
+### *<blockquote>&ldquo;We are all born ignorant, but one must work hard to remain stupid.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>*
