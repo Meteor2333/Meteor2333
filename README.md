@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Remember that sometimes not getting what you want is a wonderful stroke of luck.&rdquo; &mdash; <footer>Dalai Lama</footer></blockquote>*
+### *<blockquote>&ldquo;Rudeness is the weak man's imitation of strength.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>*
