@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Rudeness is the weak man's imitation of strength.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>*
+### *<blockquote>&ldquo;Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>*
