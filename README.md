@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. &rdquo; &mdash; <footer>Franz Kafka</footer></blockquote>*
+### *<blockquote>&ldquo;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>*
