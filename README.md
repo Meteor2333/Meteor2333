@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach.&rdquo; &mdash; <footer>Benjamin Mays</footer></blockquote>*
+### *<blockquote>&ldquo;Peace is not absence of conflict, it is the ability to handle conflict by peaceful means.&rdquo; &mdash; <footer>Ronald Reagan</footer></blockquote>*
