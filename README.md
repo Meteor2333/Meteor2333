@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;To a mind that is still, the entire universe surrenders.&rdquo; &mdash; <footer>Zhuangzi</footer></blockquote>*
+### *<blockquote>&ldquo;Children are our greatest natural resource.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>*
