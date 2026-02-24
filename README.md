@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Children are our greatest natural resource.&rdquo; &mdash; <footer>Herbert Hoover</footer></blockquote>*
+### *<blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>*
