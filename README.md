@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;By failing to prepare, you are preparing to fail.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>*
+### *<blockquote>&ldquo;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>*
