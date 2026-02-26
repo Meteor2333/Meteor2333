@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>*
+### *<blockquote>&ldquo;Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.&rdquo; &mdash; <footer>Eckhart Tolle</footer></blockquote>*
