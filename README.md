@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;A comfort zone is a beautiful place, but nothing ever grows there.&rdquo; &mdash; <footer>Unknown</footer></blockquote>*
+### *<blockquote>&ldquo;It's your life-but only if you make it so.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>*
