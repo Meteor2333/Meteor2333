@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It's your life-but only if you make it so.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>*
+### *<blockquote>&ldquo;The man who removes a mountain begins by carrying away small stones.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>*
