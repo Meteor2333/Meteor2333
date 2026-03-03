@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The pain of parting is nothing to the joy of meeting again.&rdquo; &mdash; <footer>Charles Dickens</footer></blockquote>*
+### *<blockquote>&ldquo;It doesn't matter where you are coming from. All that matters is where you are going. &rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>*
