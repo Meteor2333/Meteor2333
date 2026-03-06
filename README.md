@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>*
+### *<blockquote>&ldquo;Admire as much as you can. Most people do not admire enough.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>*
