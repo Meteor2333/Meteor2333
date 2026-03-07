@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Admire as much as you can. Most people do not admire enough.&rdquo; &mdash; <footer>Vincent van Gogh</footer></blockquote>*
+### *<blockquote>&ldquo;The world doesn't always give you want, but it often gives you what you need.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>*
