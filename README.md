@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The world doesn't always give you want, but it often gives you what you need.&rdquo; &mdash; <footer>Naval Ravikant</footer></blockquote>*
+### *<blockquote>&ldquo;Everything flows, nothing stands still.&rdquo; &mdash; <footer>Heraclitus</footer></blockquote>*
