@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;We can spend our whole lives escaping from the monsters of our minds.&rdquo; &mdash; <footer>Pema Chodron</footer></blockquote>*
+### *<blockquote>&ldquo;We cannot change anything unless we accept it.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>*
