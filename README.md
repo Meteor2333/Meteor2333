@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>*
+### *<blockquote>&ldquo;The best fighter is never angry.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>*
