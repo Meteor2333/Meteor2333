@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The best fighter is never angry.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>*
+### *<blockquote>&ldquo;Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>*
