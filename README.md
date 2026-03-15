@@ -11,6 +11,7 @@
 ## Languages
 <p>
   <a href="https://www.oracle.com/java/"><img src="assets/Java-ED8B00.svg"/></a>
+  <a href="https://kotlinlang.org/"><img src="assets/Kotlin-7F52FF.svg"/></a>
   <a href="https://isocpp.org/"><img src="assets/C++-00599C.svg"/></a>
   <a href="https://www.python.org/"><img src="assets/Python-3776AB.svg"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="assets/JavaScript-F7DF1E.svg"/></a>
