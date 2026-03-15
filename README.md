@@ -28,4 +28,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations.&rdquo; &mdash; <footer>Alfred Adler</footer></blockquote>*
+### *<blockquote>&ldquo;Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>*
