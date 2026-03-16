@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Your first and foremost job as a leader is to take charge of your own energy and then help to orchestrate the energy of those around you.&rdquo; &mdash; <footer>Peter Drucker</footer></blockquote>*
+### *<blockquote>&ldquo;We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>*
