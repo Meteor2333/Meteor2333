@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Be fascinated instead of frustrated.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>*
+### *<blockquote>&ldquo;Simple words, repeated daily, can change your life.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>*
