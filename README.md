@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Simple words, repeated daily, can change your life.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>*
+### *<blockquote>&ldquo;Life is what you make it. Always has been, always will be.&rdquo; &mdash; <footer>Eleanor Roosevelt</footer></blockquote>*
