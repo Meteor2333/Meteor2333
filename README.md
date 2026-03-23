@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Excellence is not an exception, it is a prevailing attitude.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>*
+### *<blockquote>&ldquo;You are now, and you do become, what you think about.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>*
