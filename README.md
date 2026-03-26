@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Everything you've ever wanted is on the other side of fear.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>*
+### *<blockquote>&ldquo;Write to help yourself, publish to help others.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>*
