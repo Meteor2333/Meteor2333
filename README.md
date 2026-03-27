@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Write to help yourself, publish to help others.&rdquo; &mdash; <footer>Jack Butcher</footer></blockquote>*
+### *<blockquote>&ldquo;Confidence is what you have before you understand the problem.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>*
