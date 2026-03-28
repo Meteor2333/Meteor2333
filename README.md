@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Confidence is what you have before you understand the problem.&rdquo; &mdash; <footer>Woody Allen</footer></blockquote>*
+### *<blockquote>&ldquo;Intense love does not measure, it just gives.&rdquo; &mdash; <footer>Mother Teresa</footer></blockquote>*
