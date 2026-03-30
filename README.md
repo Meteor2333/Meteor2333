@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>*
+### *<blockquote>&ldquo;Success is about creating value.&rdquo; &mdash; <footer>Candice Carpenter</footer></blockquote>*
