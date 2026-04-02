@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It's not the men in your life that matters, it's the life in your men.&rdquo; &mdash; <footer>Mae West</footer></blockquote>*
+### *<blockquote>&ldquo;If I can laugh, I can live.&rdquo; &mdash; <footer>Christopher Reeve</footer></blockquote>*
