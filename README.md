@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Ideas do not reach perfection in a day, no matter how much study is put upon them.&rdquo; &mdash; <footer>Alexander Graham Bell</footer></blockquote>*
+### *<blockquote>&ldquo;Everybody needs a passion. That's what keeps life interesting.&rdquo; &mdash; <footer>Betty White</footer></blockquote>*
