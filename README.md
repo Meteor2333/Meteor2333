@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;If you are going to achieve excellence in big things, you develop the habit in little matters.&rdquo; &mdash; <footer>Colin Powell</footer></blockquote>*
+### *<blockquote>&ldquo;Don't wish it were easier, wish you were better.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>*
