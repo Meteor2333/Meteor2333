@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Enjoy life. There's plenty of time to be dead.&rdquo; &mdash; <footer>Hans Christian Andersen</footer></blockquote>*
+### *<blockquote>&ldquo;A mistake is only an error, it becomes a mistake when you fail to correct it.&rdquo; &mdash; <footer>John Lennon</footer></blockquote>*
