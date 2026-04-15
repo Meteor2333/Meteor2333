@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>*
+### *<blockquote>&ldquo;Truth is such a rare thing, it is delighted to tell it.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>*
