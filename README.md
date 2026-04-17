@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Respect was invented to cover the empty place where love should be.&rdquo; &mdash; <footer>Leo Tolstoy</footer></blockquote>*
+### *<blockquote>&ldquo;Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.&rdquo; &mdash; <footer>G.I. Gurdjieff</footer></blockquote>*
