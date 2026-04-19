@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Still your waters.&rdquo; &mdash; <footer>Josh Waitzkin</footer></blockquote>*
+### *<blockquote>&ldquo;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
