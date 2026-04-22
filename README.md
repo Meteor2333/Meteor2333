@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Your heart is the size of an ocean. Go find yourself in its hidden depths.&rdquo; &mdash; <footer>Rumi</footer></blockquote>*
+### *<blockquote>&ldquo;When you judge another, you do not define them, you define yourself&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>*
