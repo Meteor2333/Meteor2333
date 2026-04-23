@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;When you judge another, you do not define them, you define yourself&rdquo; &mdash; <footer>Wayne Dyer</footer></blockquote>*
+### *<blockquote>&ldquo;The only reason to be alive is to enjoy it.&rdquo; &mdash; <footer>Rita Mae Brown</footer></blockquote>*
