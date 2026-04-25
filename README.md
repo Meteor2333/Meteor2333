@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You can't get to a place that you don't believe exists.&rdquo; &mdash; <footer>Unknown</footer></blockquote>*
+### *<blockquote>&ldquo;Even if you persuade me, you won't persuade me.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>*
