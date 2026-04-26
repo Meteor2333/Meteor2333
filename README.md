@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Even if you persuade me, you won't persuade me.&rdquo; &mdash; <footer>Aristophanes</footer></blockquote>*
+### *<blockquote>&ldquo;In the middle of difficulty lies opportunity.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>*
