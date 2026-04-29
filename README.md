@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Self-knowledge is the beginning of self-correction.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>*
+### *<blockquote>&ldquo;Over time, loneliness gets inside you and doesn't go away.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>*
