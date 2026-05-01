@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Those who cannot change their minds cannot change anything.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>*
+### *<blockquote>&ldquo;Duty makes us do things well, but love makes us do them beautifully.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
