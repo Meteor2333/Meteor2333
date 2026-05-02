@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Duty makes us do things well, but love makes us do them beautifully.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
+### *<blockquote>&ldquo;Confidence is contagious. So is lack of confidence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>*
