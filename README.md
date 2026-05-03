@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Confidence is contagious. So is lack of confidence.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>*
+### *<blockquote>&ldquo;Your best life will not be found in comfort. It will be found in fighting for what you believe in.&rdquo; &mdash; <footer>Maxime Lagace</footer></blockquote>*
