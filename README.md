@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Throw your heart over the bar and your body will follow.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>*
+### *<blockquote>&ldquo;If what you're doing is not your passion, you have nothing to lose.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>*
