@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It's the possibility of having a dream come true that makes life interesting.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>*
+### *<blockquote>&ldquo;20 percent of your activities will account for 80 percent of your results.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>*
