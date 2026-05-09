@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;20 percent of your activities will account for 80 percent of your results.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>*
+### *<blockquote>&ldquo;People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
