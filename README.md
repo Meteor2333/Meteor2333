@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
+### *<blockquote>&ldquo;The majority of what you want will come from the minority of what you do.&rdquo; &mdash; <footer>Gary Keller</footer></blockquote>*
