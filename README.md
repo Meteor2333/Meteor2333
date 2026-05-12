@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;There is no sadder sight than a young pessimist.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>*
+### *<blockquote>&ldquo;It all depends on what you choose to believe.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>*
