@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;We don't stop playing because we grow old; we grow old because we stop playing.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>*
+### *<blockquote>&ldquo;There is no sadder sight than a young pessimist.&rdquo; &mdash; <footer>Mark Twain</footer></blockquote>*
