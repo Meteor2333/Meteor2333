@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>*
+### *<blockquote>&ldquo;Where violence reigns, reason is weak.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>*
