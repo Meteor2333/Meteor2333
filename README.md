@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Being ignorant is not so much a shame, as being unwilling to learn.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>*
+### *<blockquote>&ldquo;Animals don't hate, and we're supposed to be better than them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>*
