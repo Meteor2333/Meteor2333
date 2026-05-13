@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Poetry is written with tears, fiction with blood, and history with invisible ink.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>*
+### *<blockquote>&ldquo;To be totally at leisure for one day is to be immortal for one day. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>*
