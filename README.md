@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You are never too old to set another goal or to dream a new dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>*
+### *<blockquote>&ldquo;Why live an ordinary life, when you can live an extraordinary one.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>*
