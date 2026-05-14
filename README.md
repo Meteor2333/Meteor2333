@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;We are all self-made, but only the successful will admit it.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>*
+### *<blockquote>&ldquo;Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has.&rdquo; &mdash; <footer>Margaret Mead</footer></blockquote>*
