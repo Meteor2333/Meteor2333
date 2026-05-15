@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;If I cannot do great things. I can do small things in a great way.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>*
+### *<blockquote>&ldquo;People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>*
