@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Why live an ordinary life, when you can live an extraordinary one.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>*
+### *<blockquote>&ldquo;The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>*
