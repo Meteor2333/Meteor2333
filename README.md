@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>*
+### *<blockquote>&ldquo;It all depends on what you choose to believe.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>*
