@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It's not whether you get knocked down, its whether you get back up.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>*
+### *<blockquote>&ldquo;If I cannot do great things. I can do small things in a great way.&rdquo; &mdash; <footer>Martin Luther King, Jr.</footer></blockquote>*
