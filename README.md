@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It all depends on what you choose to believe.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>*
+### *<blockquote>&ldquo;He who cheats the earth will be cheated by the earth.&rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>*
