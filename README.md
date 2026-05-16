@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Do not bite at the bait of pleasure, till you know there is no hook beneath it.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>*
+### *<blockquote>&ldquo;It's not whether you get knocked down, its whether you get back up.&rdquo; &mdash; <footer>Vince Lombardi</footer></blockquote>*
