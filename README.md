@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The attempt to escape from pain, is what creates more pain.&rdquo; &mdash; <footer>Gabor Mate</footer></blockquote>*
+### *<blockquote>&ldquo;Contemplation often makes life miserable.  We should act more, think less, and stop watching ourselves live.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>*
