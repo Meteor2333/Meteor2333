@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The person who never made a mistake never tried anything new.&rdquo; &mdash; <footer>Albert Einstein</footer></blockquote>*
+### *<blockquote>&ldquo;Being ignorant is not so much a shame, as being unwilling to learn.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>*
