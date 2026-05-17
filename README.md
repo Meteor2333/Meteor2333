@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Being ignorant is not so much a shame, as being unwilling to learn.&rdquo; &mdash; <footer>Benjamin Franklin</footer></blockquote>*
+### *<blockquote>&ldquo;The search for happiness is one of the chief sources of unhappiness.&rdquo; &mdash; <footer>Eric Hoffer</footer></blockquote>*
