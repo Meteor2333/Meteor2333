@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The truth is, everyone is going to hurt you. You just got to find the ones worth suffering for.&rdquo; &mdash; <footer>Bob Marley</footer></blockquote>*
+### *<blockquote>&ldquo;You are never too old to set another goal or to dream a new dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>*
