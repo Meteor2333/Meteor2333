@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You are never too old to set another goal or to dream a new dream.&rdquo; &mdash; <footer>Les Brown</footer></blockquote>*
+### *<blockquote>&ldquo;Poetry is written with tears, fiction with blood, and history with invisible ink.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>*
