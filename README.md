@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;If you want to see things just as they are, then you yourself must practice just as you are.&rdquo; &mdash; <footer>Dogen</footer></blockquote>*
+### *<blockquote>&ldquo;Life is like stepping onto a boat which is about to sail out to sea and sink.&rdquo; &mdash; <footer>Shunryu Suzuki</footer></blockquote>*
