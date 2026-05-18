@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Growth is in a series of mistakes. That's the only way you learn.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>*
+### *<blockquote>&ldquo;Animals don't hate, and we're supposed to be better than them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>*
