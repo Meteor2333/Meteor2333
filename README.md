@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Animals don't hate, and we're supposed to be better than them.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>*
+### *<blockquote>&ldquo;Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.&rdquo; &mdash; <footer>Steve Jobs</footer></blockquote>*
