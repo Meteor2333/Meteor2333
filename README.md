@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>*
+### *<blockquote>&ldquo;Working hard for something we don't care about is called stress: Working hard for something we love is called passion.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>*
