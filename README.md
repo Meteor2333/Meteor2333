@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The world would go on even without you. Don't take yourself so seriously.&rdquo; &mdash; <footer>Norman Vincent Peale</footer></blockquote>*
+### *<blockquote>&ldquo;It is children only who enjoy the present; their elders either live on the memory of the past or the hope of the future.&rdquo; &mdash; <footer>Nicolas Chamfort</footer></blockquote>*
