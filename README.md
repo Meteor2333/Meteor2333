@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Life needs to be more than just solving problems every day. You need to wake up and be excited about the future.&rdquo; &mdash; <footer>Elon Musk</footer></blockquote>*
+### *<blockquote>&ldquo;A friend to all is a friend to none.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>*
