@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Working hard for something we don't care about is called stress: Working hard for something we love is called passion.&rdquo; &mdash; <footer>Simon Sinek</footer></blockquote>*
+### *<blockquote>&ldquo;The future will be shaped by those willing to commit their minds and their bodies to the task.&rdquo; &mdash; <footer>Robert F. Kennedy</footer></blockquote>*
