@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents.&rdquo; &mdash; <footer>Andrew Carnegie</footer></blockquote>*
+### *<blockquote>&ldquo;The quality of your life is determined by the quality of questions you ask.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>*
