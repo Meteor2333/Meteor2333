@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The quality of your life is determined by the quality of questions you ask.&rdquo; &mdash; <footer>Tony Robbins</footer></blockquote>*
+### *<blockquote>&ldquo;Everyone has the right to make his own decisions, but none has the right to force his decision on others.&rdquo; &mdash; <footer>Ayn Rand</footer></blockquote>*
