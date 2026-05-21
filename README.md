@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It is not titles that honour men, but men that honour titles.&rdquo; &mdash; <footer>Niccolo Machiavelli</footer></blockquote>*
+### *<blockquote>&ldquo;When the fish is caught we pay no more attention to the trap.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>*
