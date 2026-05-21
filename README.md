@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Success is not the result of making money; making money is the result of success - and success is in direct proportion to our service.&rdquo; &mdash; <footer>Earl Nightingale</footer></blockquote>*
+### *<blockquote>&ldquo;Your spirit is the true shield.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>*
