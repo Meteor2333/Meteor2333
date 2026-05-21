@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Your spirit is the true shield.&rdquo; &mdash; <footer>Morihei Ueshiba</footer></blockquote>*
+### *<blockquote>&ldquo;Remember, hope is a good thing, maybe the best of things.&rdquo; &mdash; <footer>Stephen King</footer></blockquote>*
