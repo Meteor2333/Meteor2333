@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You have as much laughter as you have faith.&rdquo; &mdash; <footer>Martin Luther</footer></blockquote>*
+### *<blockquote>&ldquo;Help others for all the times that you have been ignored. Be kind to others, for all the times that you have been scorned.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>*
