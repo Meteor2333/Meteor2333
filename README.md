@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Our anxiety does not empty tomorrow of its sorrows, but only empties today of its strengths.&rdquo; &mdash; <footer>Charles Spurgeon</footer></blockquote>*
+### *<blockquote>&ldquo;Words are the clothing of our thoughts.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>*
