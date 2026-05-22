@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Winners are not people who never fail, but people who never quit.&rdquo; &mdash; <footer>Arnold Schwarzenegger</footer></blockquote>*
+### *<blockquote>&ldquo;Never argue with ignorance. It only leads to frustration.&rdquo; &mdash; <footer>Unknown</footer></blockquote>*
