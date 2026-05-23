@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You never know when a moment and a few sincere words can have an impact on a life.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
+### *<blockquote>&ldquo;Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. &rdquo; &mdash; <footer>Paramahansa Yogananda</footer></blockquote>*
