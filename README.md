@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;A good master leads you to the true master within. Only that master, who is your own higher self, can adequately answer all questions.&rdquo; &mdash; <footer>Ming-Dao Deng</footer></blockquote>*
+### *<blockquote>&ldquo;Never spend your money before you have earned it.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>*
