@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Saying nothing sometimes says the most.&rdquo; &mdash; <footer>Emily Dickinson</footer></blockquote>*
+### *<blockquote>&ldquo;To share your weakness is to make yourself vulnerable; to make yourself vulnerable is to show your strength.&rdquo; &mdash; <footer>Criss Jami</footer></blockquote>*
