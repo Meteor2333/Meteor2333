@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>*
+### *<blockquote>&ldquo;You never know when a moment and a few sincere words can have an impact on a life.  &rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
