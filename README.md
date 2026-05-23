@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Never spend your money before you have earned it.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>*
+### *<blockquote>&ldquo;Small men think they are small; great men never know they are great. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>*
