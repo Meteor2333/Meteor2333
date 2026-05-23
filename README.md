@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
+### *<blockquote>&ldquo;Your visions will become clear only when you can look into your own heart. Who looks outside, dreams; who looks inside, awakes.&rdquo; &mdash; <footer>Carl Jung</footer></blockquote>*
