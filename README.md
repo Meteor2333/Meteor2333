@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Small men think they are small; great men never know they are great. &rdquo; &mdash; <footer>Chinese Proverb</footer></blockquote>*
+### *<blockquote>&ldquo;Presents are made for the pleasure of who gives them, not the merits of who receives them.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>*
