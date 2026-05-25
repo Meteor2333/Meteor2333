@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Presents are made for the pleasure of who gives them, not the merits of who receives them.&rdquo; &mdash; <footer>Carlos Ruiz Zafon</footer></blockquote>*
+### *<blockquote>&ldquo;The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>*
