@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.&rdquo; &mdash; <footer>Dan Millman</footer></blockquote>*
+### *<blockquote>&ldquo;Learn only how to avoid seeking for and attaching yourselves to anything.&rdquo; &mdash; <footer>Huang Po</footer></blockquote>*
