@@ -22,6 +22,7 @@
 ## Tools
 <p>
   <a href="https://www.jetbrains.com/idea/"><img src="assets/IDEA-000000.svg"/></a>
+  <a href="https://developer.android.com/studio/"><img src="assets/Android_Studio-3DDB85.svg"/></a>
   <a href="https://visualstudio.microsoft.com/"><img src="assets/Visual_Studio-5C2D91.svg"/></a>
   <a href="https://code.visualstudio.com/"><img src="assets/VS_Code-007ACC.svg"/></a>
   <a href="https://git-scm.com/"><img src="assets/Git-F05032.svg"/></a>
