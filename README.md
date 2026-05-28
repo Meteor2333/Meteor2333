@@ -29,4 +29,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Being wrong opens us up to the possibility of change.&rdquo; &mdash; <footer>Mark Manson</footer></blockquote>*
+### *<blockquote>&ldquo;You just can&#039;t beat the person who never gives up.&rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>*
