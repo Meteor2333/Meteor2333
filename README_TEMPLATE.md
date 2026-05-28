@@ -1,6 +1,6 @@
 # Hi there 👋
 
-### A **full-stack** developer and ***Minecraft*** technical player, a student interested in hardware development and reverse engineering!
+### "Coding, experiments, random projects, and late-night ideas"
 
 <picture>
   <img src="metrics.svg" alt="Metrics" width="100%">
