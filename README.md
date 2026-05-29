@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You just can&#039;t beat the person who never gives up.&rdquo; &mdash; <footer>Babe Ruth</footer></blockquote>*
+### *<blockquote>&ldquo;Do something to move yourself toward your major goal every day.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>*
