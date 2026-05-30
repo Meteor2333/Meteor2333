@@ -1522,7 +1522,7 @@
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">YourMIUI</span>
+                                <span class="name">public</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
