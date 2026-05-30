@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Do something to move yourself toward your major goal every day.&rdquo; &mdash; <footer>Brian Tracy</footer></blockquote>*
+### *<blockquote>&ldquo;Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.&rdquo; &mdash; <footer>John Eliot</footer></blockquote>*
