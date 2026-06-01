@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>*
+### *<blockquote>&ldquo;Continuous effort - not strength or intelligence - is the key to unlocking our potential.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>*
