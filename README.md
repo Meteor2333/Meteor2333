@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Continuous effort - not strength or intelligence - is the key to unlocking our potential.&rdquo; &mdash; <footer>Winston Churchill</footer></blockquote>*
+### *<blockquote>&ldquo;The only thing worse than being blind is having sight but no vision.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>*
