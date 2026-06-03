@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The only thing worse than being blind is having sight but no vision.&rdquo; &mdash; <footer>Helen Keller</footer></blockquote>*
+### *<blockquote>&ldquo;You are always your own best guru, your own best teacher, the answers are always inside you.&rdquo; &mdash; <footer>Sathya Sai Baba</footer></blockquote>*
