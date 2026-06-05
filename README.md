@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Expect the best of yourself, and then do what is necessary to make it a reality.&rdquo; &mdash; <footer>Ralph Marston</footer></blockquote>*
+### *<blockquote>&ldquo;One of the most difficult things is not to change society - but to change yourself.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>*
