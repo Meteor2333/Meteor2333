@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;One of the most difficult things is not to change society - but to change yourself.&rdquo; &mdash; <footer>Nelson Mandela</footer></blockquote>*
+### *<blockquote>&ldquo;The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.&rdquo; &mdash; <footer>Confucius</footer></blockquote>*
