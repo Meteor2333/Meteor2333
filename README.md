@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.&rdquo; &mdash; <footer>Confucius</footer></blockquote>*
+### *<blockquote>&ldquo;A lot of people have gone further than they thought they could because someone else thought they could.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
