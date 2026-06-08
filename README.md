@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;A lot of people have gone further than they thought they could because someone else thought they could.&rdquo; &mdash; <footer>Zig Ziglar</footer></blockquote>*
+### *<blockquote>&ldquo;I like the dreams of the future better than the history of the past.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>*
