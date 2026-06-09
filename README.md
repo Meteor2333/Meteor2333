@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;I like the dreams of the future better than the history of the past.&rdquo; &mdash; <footer>Thomas Jefferson</footer></blockquote>*
+### *<blockquote>&ldquo;Given the choice between the experience of pain and nothing, I would choose pain.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>*
