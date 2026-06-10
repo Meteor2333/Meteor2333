@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Given the choice between the experience of pain and nothing, I would choose pain.&rdquo; &mdash; <footer>William Faulkner</footer></blockquote>*
+### *<blockquote>&ldquo;Short cuts make long delays.&rdquo; &mdash; <footer>J.R.R. Tolkien</footer></blockquote>*
