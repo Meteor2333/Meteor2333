@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Every man desires to live long, but no man wishes to be old.&rdquo; &mdash; <footer>Jonathan Swift</footer></blockquote>*
+### *<blockquote>&ldquo;The future depends on what you do today.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>*
