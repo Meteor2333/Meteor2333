@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The future depends on what you do today.&rdquo; &mdash; <footer>Mahatma Gandhi</footer></blockquote>*
+### *<blockquote>&ldquo;You can&#039;t build a reputation on what you are going to do.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>*
