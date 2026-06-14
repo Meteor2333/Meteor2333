@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You can&#039;t build a reputation on what you are going to do.&rdquo; &mdash; <footer>Henry Ford</footer></blockquote>*
+### *<blockquote>&ldquo;Anger begins with folly, and ends with repentance.&rdquo; &mdash; <footer>Beverly Sills</footer></blockquote>*
