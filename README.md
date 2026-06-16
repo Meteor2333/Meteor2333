@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Your dream has to be bigger than your fear.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>*
+### *<blockquote>&ldquo;The road to success is always under construction..&rdquo; &mdash; <footer>Lily Tomlin</footer></blockquote>*
