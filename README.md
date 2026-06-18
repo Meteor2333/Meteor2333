@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Never whine, never complain, never try to justify yourself.&rdquo; &mdash; <footer>Robert Greene</footer></blockquote>*
+### *<blockquote>&ldquo;But better die than live mechanically a life that is a repetition of repetitions.&rdquo; &mdash; <footer>D. H. Lawrence</footer></blockquote>*
