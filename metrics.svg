@@ -1523,12 +1523,12 @@
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">lsposed-library</span>
+                                <span class="name">DingtalkPlus</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">DingtalkPlus</span>
+                                <span class="name">lsposed-library</span>
                                 <div class="bar" style="width: 0%; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
