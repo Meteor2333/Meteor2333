@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Let us rather run the risk of wearing out than rusting out.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>*
+### *<blockquote>&ldquo;Only when you can be extremely pliable and soft can you be extremely hard and strong.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>*
