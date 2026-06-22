@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Only when you can be extremely pliable and soft can you be extremely hard and strong.&rdquo; &mdash; <footer>Zen Proverb</footer></blockquote>*
+### *<blockquote>&ldquo;Argue for your limitations and sure enough, they&#039;re yours.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>*
