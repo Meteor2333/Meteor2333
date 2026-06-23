@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Argue for your limitations and sure enough, they&#039;re yours.&rdquo; &mdash; <footer>Richard Bach</footer></blockquote>*
+### *<blockquote>&ldquo;You may be one person in this world, but to one person you may mean the world.&rdquo; &mdash; <footer>Unknown</footer></blockquote>*
