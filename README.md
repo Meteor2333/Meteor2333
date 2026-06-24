@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You may be one person in this world, but to one person you may mean the world.&rdquo; &mdash; <footer>Unknown</footer></blockquote>*
+### *<blockquote>&ldquo;You&#039;re on earth. There&#039;s no cure for that.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>*
