@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You&#039;re on earth. There&#039;s no cure for that.&rdquo; &mdash; <footer>Samuel Beckett</footer></blockquote>*
+### *<blockquote>&ldquo;The best fighter is never angry.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>*
