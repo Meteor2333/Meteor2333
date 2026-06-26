@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The best fighter is never angry.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>*
+### *<blockquote>&ldquo;It is dangerous to be right in matters on which the established authorities are wrong.&rdquo; &mdash; <footer>Voltaire</footer></blockquote>*
