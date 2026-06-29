@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Truth is the offspring of silence and meditation.&rdquo; &mdash; <footer>Isaac Newton</footer></blockquote>*
+### *<blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>*
