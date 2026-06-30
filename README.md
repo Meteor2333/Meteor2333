@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;All leaders are readers.&rdquo; &mdash; <footer>Jim Rohn</footer></blockquote>*
+### *<blockquote>&ldquo;To create more positive results in your life, replace &#039;if only&#039; with &#039;next time&#039;.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>*
