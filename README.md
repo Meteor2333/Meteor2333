@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;To create more positive results in your life, replace &#039;if only&#039; with &#039;next time&#039;.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>*
+### *<blockquote>&ldquo;People who say it cannot be done should not interrupt those who are doing it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>*
