@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;People who say it cannot be done should not interrupt those who are doing it.&rdquo; &mdash; <footer>George Bernard Shaw</footer></blockquote>*
+### *<blockquote>&ldquo;No one ever said life was fair. Just Eventful.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>*
