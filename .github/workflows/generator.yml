@@ -52,7 +52,6 @@ jobs:
           # plugin_activity_timestamps: yes
 
           plugin_wakatime: yes
-          plugin_wakatime_url: https://wakapi.dev
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
 
       - name: Build README.md
