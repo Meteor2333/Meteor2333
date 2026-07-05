@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Patience is bitter, but its fruit is sweet.&rdquo; &mdash; <footer>Aristotle</footer></blockquote>*
+### *<blockquote>&ldquo;One of the advantages of being disorganized is that one is always having surprising discoveries.&rdquo; &mdash; <footer>A.A. Milne</footer></blockquote>*
