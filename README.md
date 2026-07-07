@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Don&#039;t take yourself too seriously, pretty soon you can find the humor in our everyday lives.&rdquo; &mdash; <footer>Betty White</footer></blockquote>*
+### *<blockquote>&ldquo;It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.&rdquo; &mdash; <footer>Sun Tzu</footer></blockquote>*
