@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.&rdquo; &mdash; <footer>Steve Maraboli</footer></blockquote>*
+### *<blockquote>&ldquo;When you&#039;ve got nothing, you&#039;ve got nothing to lose.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>*
