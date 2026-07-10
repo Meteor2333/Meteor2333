@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;When you&#039;ve got nothing, you&#039;ve got nothing to lose.&rdquo; &mdash; <footer>Bob Dylan</footer></blockquote>*
+### *<blockquote>&ldquo;When something comes from within, when it is a part of you, you have no choice but to live it, to express it.&rdquo; &mdash; <footer>Kamal Ravikant</footer></blockquote>*
