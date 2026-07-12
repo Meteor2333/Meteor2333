@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Stuff your eyes with wonder... live as if you&#039;d drop dead in ten seconds. See the world. It&#039;s more fantastic than any dream made or paid for in factories.&rdquo; &mdash; <footer>Ray Bradbury</footer></blockquote>*
+### *<blockquote>&ldquo;Success is a consequence and must not be a goal.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>*
