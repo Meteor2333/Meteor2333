@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Success is a consequence and must not be a goal.&rdquo; &mdash; <footer>Gustave Flaubert</footer></blockquote>*
+### *<blockquote>&ldquo;Words, once they are printed, have a life of their own.&rdquo; &mdash; <footer>Carol Burnett</footer></blockquote>*
