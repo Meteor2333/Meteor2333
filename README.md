@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;There&#039;s no next time. It&#039;s now or never.&rdquo; &mdash; <footer>Celestine Chua</footer></blockquote>*
+### *<blockquote>&ldquo;Knowing others is wisdom, knowing yourself is enlightenment.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>*
