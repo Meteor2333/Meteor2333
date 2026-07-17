@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Knowing others is wisdom, knowing yourself is enlightenment.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>*
+### *<blockquote>&ldquo;Death and life have their determined appointments; riches and honors depend upon heaven.&rdquo; &mdash; <footer>Confucius</footer></blockquote>*
