@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Death and life have their determined appointments; riches and honors depend upon heaven.&rdquo; &mdash; <footer>Confucius</footer></blockquote>*
+### *<blockquote>&ldquo;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>*
