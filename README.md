@@ -15,7 +15,7 @@
   <a href="https://isocpp.org/"><img src="assets/C++-00599C.svg"/></a>
   <a href="https://www.python.org/"><img src="assets/Python-3776AB.svg"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="assets/JavaScript-F7DF1E.svg"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="assets/TypeScript-3178C6.svg"/></a>
+  <!-- Template:Icon(https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white;;;https://www.typescriptlang.org/) -->
   <a href="https://vuejs.org/"><img src="assets/Vue-4FC08D.svg"/></a>
 </p>
 
@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Would you rather live your life according to the approval of others or aligned with your truth and your dreams?&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>*
+### *<blockquote>&ldquo;The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>*
