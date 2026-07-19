@@ -15,7 +15,7 @@
   <a href="https://isocpp.org/"><img src="assets/C++-00599C.svg"/></a>
   <a href="https://www.python.org/"><img src="assets/Python-3776AB.svg"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/"><img src="assets/JavaScript-F7DF1E.svg"/></a>
-  <!-- Template:Icon(https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white;;;https://www.typescriptlang.org/) -->
+  <a href="https://www.typescriptlang.org/"><img src="assets/TypeScript-3178C6.svg"/></a>
   <a href="https://vuejs.org/"><img src="assets/Vue-4FC08D.svg"/></a>
 </p>
 
