@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.&rdquo; &mdash; <footer>Albus Dumbledore</footer></blockquote>*
+### *<blockquote>&ldquo;An action committed in anger is an action doomed to failure.&rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>*
