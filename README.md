@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;An action committed in anger is an action doomed to failure.&rdquo; &mdash; <footer>Genghis Khan</footer></blockquote>*
+### *<blockquote>&ldquo;Do Something. If it works, do more of it. If it doesn&#039;t, do something else.&rdquo; &mdash; <footer>Franklin D. Roosevelt</footer></blockquote>*
