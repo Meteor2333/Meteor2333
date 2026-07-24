@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;You have the potential for greatness.&rdquo; &mdash; <footer>Steve Harvey</footer></blockquote>*
+### *<blockquote>&ldquo;Change is hard at first, messy in the middle and gorgeous at the end.&rdquo; &mdash; <footer>Robin Sharma</footer></blockquote>*
