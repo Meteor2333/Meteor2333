@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It is amazing what you can accomplish if you do not care who gets the credit.&rdquo; &mdash; <footer>Harry S. Truman</footer></blockquote>*
+### *<blockquote>&ldquo;Let us rather run the risk of wearing out than rusting out.&rdquo; &mdash; <footer>Theodore Roosevelt</footer></blockquote>*
