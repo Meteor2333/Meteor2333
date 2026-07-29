@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Be kind, for everyone you meet is fighting a harder battle.&rdquo; &mdash; <footer>Plato</footer></blockquote>*
+### *<blockquote>&ldquo;If you let your head get too big, it&#039;ll break your neck.&rdquo; &mdash; <footer>Elvis Presley</footer></blockquote>*
