@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It isn&#039;t that they can&#039;t see the solution. It is that they can&#039;t see the problem.&rdquo; &mdash; <footer>Gilbert Chesterton</footer></blockquote>*
+### *<blockquote>&ldquo;New beginnings are disguised as painful endings.&rdquo; &mdash; <footer>Lao Tzu</footer></blockquote>*
