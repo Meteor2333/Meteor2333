@@ -1,18 +1,34 @@
 import { XMLParser } from "fast-xml-parser";
 import { readFileSync } from 'fs';
 
+const parser = new XMLParser({
+  ignoreAttributes: false
+});
+const output = readFileSync('../metrics.svg', 'utf8');
+const xml = parser.parse(output);
+const width = xml.svg["@_width"];
+const height = xml.svg["@_height"];
+// 添加加载后渐亮动画效果
+output = 
+`<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}">
+${str}
+  <animate
+    attributeName="opacity"
+    from="0"
+    to="1"
+    dur="0.3s"
+    fill="freeze"/>
+</svg>
+`;
+writeFileSync('../metrics.svg', output);
+
 export default function() {
-  const parser = new XMLParser({
-    ignoreAttributes: false
-  });
-  const output = readFileSync('../metrics.svg', 'utf8');
-  const xml = parser.parse(output);
   return `
 <picture>
   <img 
     src="metrics.svg"
-    width="${xml.svg["@_width"]}"
-    height="${xml.svg["@_height"]}"
+    width="${width}"
+    height="${height}"
     style="width:100%;height:auto"
     alt="Metrics"
   />
