@@ -7,7 +7,7 @@
     src="metrics.svg"
     width="960"
     height="1146"
-    style="width:100%;height:auto"
+    style="width:100%;height:100%"
     alt="Metrics"
   />
 </picture>
