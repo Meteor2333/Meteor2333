@@ -56,7 +56,8 @@ jobs:
 
       - name: Build README.md
         run: |
-          sudo mv /metrics_renders/* ./
+          sudo chmod -R ugo+rw /metrics_renders
+          mv /metrics_renders/* ./
           cd scripts
           npm install
           npm run build
