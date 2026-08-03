@@ -30,4 +30,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;Yesterday is history, tomorrow is a mystery, today is God&#039;s gift, that&#039;s why we call it the present.&rdquo; &mdash; <footer>Joan Rivers</footer></blockquote>*
+### *<blockquote>&ldquo;It all depends on what you choose to believe.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>*
