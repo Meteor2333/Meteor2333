@@ -16,6 +16,6 @@ function replaceTemplate(text, name, generator) {
       `<!--\\s*@${name}(?:\\((.*?)\\))?\\s*-->`,
       "g"
     ),
-    (_, args) => { return generator(args); }
+    (_, args) => { return generator(args).trim(); }
   );
 }

@@ -31,8 +31,6 @@ export default function(args) {
 
   writeFileSync(`../assets/${filename}`, response.buffer());
   return `
-<a href="${click}" style="text-decoration:none">
-  <img src="assets/${filename}" style="display:block"/>
-</a>
+<a href="${click}"><img src="assets/${filename}"/></a>
   `;
 }
