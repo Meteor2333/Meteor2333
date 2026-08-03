@@ -1,7 +1,7 @@
 name: Generator
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 * * * *"}]
+  schedule: [{cron: "0 */6 * * *"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on main
@@ -56,70 +56,15 @@ jobs:
 
       - name: Build README.md
         run: |
-          node <<'EOF'
-          import path from 'path';
-          import { pipeline } from 'stream/promises';
-          import { createWriteStream } from 'fs';
-          import { mkdir, readFile, writeFile } from 'fs/promises';
-
-          let readme = await readFile('README_TEMPLATE.md', 'utf8');
-
-          // const metrics_result = await readFile('/metrics_renders/metrics.svg', 'utf8');
-          // const metrics = `<picture>${metrics_result}</picture>`;
-          // readme = readme.replace(
-          //   /<!--\s*Template:Metrics\s*-->/,
-          //   metrics
-          // );
-
-          const icon_regex = /<!--\s*Template:Icon\((?<display>.+?);{3}(?<click>[^)]+)\)\s*-->/g;
-          let icon_result = '';
-          let icon_lastIndex = 0;
-          for (const match of readme.matchAll(icon_regex)) {
-            const { index, groups } = match;
-            const { display, click } = groups || {};
-            if (!display || !click) continue;
-
-            const response = await fetch(display);
-            if (!response.ok) {
-              console.warn(`Download failed: ${response.status} ${response.statusText}!`);
-              continue;
-            }
-
-            await mkdir('assets', { recursive: true });
-            let filename = path.basename(new URL(display).pathname);
-            if (filename) {
-              filename += '.svg';
-            } else {
-              console.warn(`Get filename failed: ${display}!`);
-              continue;
-            }
-            await pipeline(response.body, createWriteStream(`assets/${filename}`));
-            icon_result += readme.slice(icon_lastIndex, index);
-            icon_result += `<a href="${click}"><img src="assets/${filename}"/></a>`;
-            icon_lastIndex = index + match[0].length;
-          }
-          icon_result += readme.slice(icon_lastIndex);
-          readme = icon_result;
-          
-          const quote_response = await fetch('https://zenquotes.io/api/today');
-          if (!quote_response.ok) {
-            console.warn(`HTTP Error ${quote_response.status}`);
-          } else {
-            const json = (await quote_response.json())[0];
-            const quote = `### *${json.h}*`;
-            readme = readme.replace(
-              /<!--\s*Template:Quote\s*-->/,
-              quote
-            );
-          }
-          
-          await writeFile('README.md', readme);
-          EOF
+          sudo mv /metrics_renders/* ./
+          cd scripts
+          npm install
+          npm run build
+          cd ../
 
       - name: Push changes
         run: |
           set +e
-          sudo mv /metrics_renders/* ./
           git add --all
           git status
           if git diff --cached --quiet; then
