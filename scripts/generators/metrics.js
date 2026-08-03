@@ -31,7 +31,7 @@ export default function() {
     src="metrics.svg"
     width="${width}"
     height="${height}"
-    style="width:100%;height:auto"
+    style="width:100%;height:100%"
     alt="Metrics"
   />
 </picture>
