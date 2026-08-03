@@ -14,12 +14,6 @@ export default function(args) {
   const click = split[1];
   if (!display || !click) return '';
 
-  const response = syncFetch(display);
-  if (!response.ok) {
-    console.warn(`Download failed: ${response.statusText}`);
-    return '';
-  }
-
   mkdirSync('../assets', { recursive: true });
   let filename = basename(new URL(display).pathname);
   if (filename) {
@@ -29,8 +23,13 @@ export default function(args) {
     return '';
   }
 
+  const result = `<a href="${click}"><img src="assets/${filename}"/></a>`;
+  const response = syncFetch(display);
+  if (!response.ok) {
+    console.warn(`Download failed: ${response.statusText} (${response.status})`);
+    return result;
+  }
+  
   writeFileSync(`../assets/${filename}`, response.buffer());
-  return `
-<a href="${click}"><img src="assets/${filename}"/></a>
-  `;
+  return result;
 }
