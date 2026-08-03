@@ -1,7 +1,9 @@
-import syncFetch from 'sync-fetch';
 import { basename } from 'path';
 import { pipeline } from 'stream/promises';
 import { createWriteStream, mkdirSync, writeFileSync } from 'fs';
+
+let queue = Promise.resolve();
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 
 export default function(args) {
   const split = args.split(";;;", 2);
@@ -24,12 +26,16 @@ export default function(args) {
   }
 
   const result = `<a href="${click}"><img src="assets/${filename}"/></a>`;
-  const response = syncFetch(display);
-  if (!response.ok) {
-    console.warn(`Download failed: ${response.statusText} (${response.status})`);
-    return result;
-  }
-  
+  queue = queue.then(async () => {
+    const response = await fetch(display);
+    if (!response.ok) {
+      console.warn(`Download failed: ${response.statusText} (${response.status})`);
+    }
+
+    // 延时1s 防止403 forbidden
+    await sleep(1000);
+  }).catch(console.error);
+
   writeFileSync(`../assets/${filename}`, response.buffer());
   return result;
 }
