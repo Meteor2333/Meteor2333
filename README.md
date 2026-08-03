@@ -6,7 +6,7 @@
   <img 
     src="metrics.svg"
     width="960"
-    height="1264"
+    height="1221"
     style="width:100%;height:100%"
     alt="Metrics"
   />
