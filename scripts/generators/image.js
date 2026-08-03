@@ -1,6 +1,6 @@
 import { basename } from 'path';
 import { pipeline } from 'stream/promises';
-import { createWriteStream, mkdirSync, writeFileSync } from 'fs';
+import { createWriteStream, mkdirSync } from 'fs';
 
 let queue = Promise.resolve();
 const sleep = ms => new Promise(r => setTimeout(r, ms));
@@ -30,12 +30,13 @@ export default function(args) {
     const response = await fetch(display);
     if (!response.ok) {
       console.warn(`Download failed: ${response.statusText} (${response.status})`);
+    } else {      
+      await pipeline(response.body, createWriteStream(`../assets/${filename}`));
     }
 
     // 延时1s 防止403 forbidden
     await sleep(1000);
   }).catch(console.error);
 
-  writeFileSync(`../assets/${filename}`, response.buffer());
   return result;
 }
