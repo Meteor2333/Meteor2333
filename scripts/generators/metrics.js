@@ -11,7 +11,7 @@ const height = xml.svg["@_height"];
 // 添加加载后渐亮动画效果
 output = 
 `<svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}">
-${str}
+${output}
   <animate
     attributeName="opacity"
     from="0"
