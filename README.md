@@ -6,7 +6,7 @@
   <img 
     src="metrics.svg"
     width="960"
-    height="1221"
+    height="1146"
     style="width:100%;height:100%"
     alt="Metrics"
   />
@@ -36,4 +36,4 @@
   <a href="https://www.altium.com/altium-designer"><img src="assets/Altium_Designer-A5915F.svg"/></a>
 </p>
 
-### *<blockquote>&ldquo;It all depends on what you choose to believe.&rdquo; &mdash; <footer>Spencer Johnson</footer></blockquote>*
+### *<blockquote>&ldquo;Love never keeps a man from pursuing his destiny.&rdquo; &mdash; <footer>Paulo Coelho</footer></blockquote>*
