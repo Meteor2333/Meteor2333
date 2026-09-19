@@ -50,7 +50,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_languages_other: yes
-          plugin_wakatime_repositories_visibility: public
 
           plugin_stars: yes
           plugin_stars_limit: 4
